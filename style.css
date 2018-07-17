@@ -1,0 +1,33 @@
+
+
+.parent{
+  border: 3px solid red;
+  display:flex;
+  flex-direction: row;
+}
+.childone{
+  border: 3px solid blue;
+  padding:3%;
+  width:30%;
+  margin:2%;
+  border-radius: 10%;
+  text-align: center;
+  font-size: 25px;
+}
+img{
+  width:40%;
+  border:10px solid gray;
+  border-radius: 50%;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.childtwo{
+  border: 3px solid blue;
+  padding:3%;
+  width:70%;
+  margin:2%;
+  border-radius: 10%;
+
+}
